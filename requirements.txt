@@ -6,4 +6,4 @@ plotly>=5.14.0
 re
 io
 os
-plotly.express as px
+plotly.express
