@@ -7,3 +7,4 @@ re
 io
 os
 plotly.express
+kaleido
